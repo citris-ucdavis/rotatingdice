@@ -1,4 +1,4 @@
-﻿# Visual Thinking Rotating Dice Puzzle
+﻿# Rotating Dice Visual Thinking Puzzle
 
 <p align="center"><img src="https://raw.githubusercontent.com/citris-ucdavis/rotatingdice/master/.github/rotatingdice.jpg" width="480"></p>
 
